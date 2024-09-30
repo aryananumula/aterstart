@@ -1,4 +1,4 @@
-function start():
+function startfn():
   await fetch("https://aternos.org/ajax/server/start?access-credits=false&TOKEN=k6mbo0FPDDWEnuiRlNdg&SEC=4hxhdulxjrl00000%3A1rt3lgv3xcf00000&SERVER=lydy6wq2TjaVFknW", {
       "credentials": "include",
       "headers": {
