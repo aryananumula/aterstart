@@ -15,3 +15,4 @@ function startfn():
       "method": "GET",
       "mode": "cors"
   });
+}
